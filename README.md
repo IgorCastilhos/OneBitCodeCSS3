@@ -9,15 +9,15 @@ Objetivos deste módulo
 
 O que é?
 
-* Cascade Style Sheets (Folha de Estilo em Cascatas)
+* Cascading Style Sheets (Folha de Estilo em Cascatas)
 * Linguagem que define o estilo de um documento HTML
 * Não deve ser definida dentro de um documento HTML
 
 Como funciona uma regra CSS
 
            Declaration     Declaration
-h1       { color: blue;  font-size:12px; }
-Selector   Prop   Value Prop      Value
+h1        color: blue;  font-size:12px; <br><br>
+Selector   Prop   Value Prop      Value 
 
 * O seletor aponta para o elemento HTML a ser estilizado
 * O bloco de declaração (entre chaves) contém uma ou mais declarações
