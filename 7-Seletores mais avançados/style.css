@@ -1,0 +1,12 @@
+/* li > a {
+  color: red;
+} */
+
+a[href='/recibo'] {
+  color: orange;
+}
+
+/* Pseudo-classes */
+li:nth-of-type(odd) {
+  color:purple;
+}

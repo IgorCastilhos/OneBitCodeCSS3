@@ -1,0 +1,17 @@
+.yellow_text {
+  color: yellow;
+  font-size: 20px;
+}
+
+.big_text {
+  font-size: 40px;
+}
+
+#europa_text {
+  font-size: 20px;
+  color: blue;
+}
+
+li {
+  color: grey;
+}
